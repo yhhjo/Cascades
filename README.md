@@ -1,6 +1,6 @@
-# Cascades Thermochronology Modeling 
+# Cascadia Case Study
 
-Cascades thermochronology and exhumation modeling and research repository. 
+Thermochronology and exhumation modeling and research repository. 
 
 ### *Useful links*
 
