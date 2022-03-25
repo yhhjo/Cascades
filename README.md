@@ -2,6 +2,12 @@
 
 Thermochronology and exhumation modeling and research repository. 
 
+### *To clone repository*
+```
+cd ~/path/to/working/directory
+git clone github.com/yhhjo/Cascades
+```
+
 ### *Useful links*
 
 Farley et. al (1996): "The effects of long alpha-stopping distances on (U‐Th)/He ages"
