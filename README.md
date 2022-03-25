@@ -3,6 +3,7 @@
 Thermochronology and exhumation modeling and research repository. 
 
 ### *To clone repository*
+Open Terminal and type
 ```
 cd ~/path/to/working/directory
 git clone https://github.com/yhhjo/Cascades.git
